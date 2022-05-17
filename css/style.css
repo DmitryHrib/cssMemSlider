@@ -72,7 +72,7 @@ body {
   /* transform: translate(-50%, -50%); */
 }
 .content {
-  height: 5em;
+  height: 4em;
   width: 70rem;
   display: flex;  
   margin: 0 auto;
@@ -237,11 +237,11 @@ body {
   margin-left: calc(50% - 15%);
   justify-content: center;
 }
-.bar {  
+label {  
   height: 5rem;
   width: 4rem; 
 }
-.bar__d {  
+label span {  
   width: 2.5rem;
   height: 2.5rem;  
 }
